@@ -15,7 +15,7 @@ Pepi first collected the number of times in which they scrubbed individual under
 We then coded the robotic arm tthe 
 
 
-### Materials needed
+### Materials used
 
 Robot Arm:
 - 3 x [Servo Motors](https://www.hiwonder.com/products/ld-220mg?_pos=1&_sid=52fc990bb&_ss=r)
