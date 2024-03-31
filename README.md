@@ -37,6 +37,7 @@ Electronics:
 - 1000μF Capacitor
 - [Precision RTC](https://www.adafruit.com/product/5188) (Clock)
 - 6V 5A power supply
+- Transistor 2n2222a
 
 
 ### Personalizing the project
