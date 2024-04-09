@@ -7,7 +7,7 @@ This project was chosen as a finalist as part of U of Virginia's Open Call, and 
 
 ### About the project
 
-[![Watch the video]](https://www.youtube.com/watch?v=LS9jGnWLb5s)
+[Watch the video](https://www.youtube.com/watch?v=LS9jGnWLb5s)
 
 
 This project aims to highlight the amount of time, resources and labour one spends coping with menstruation.
