@@ -3,6 +3,8 @@
 
 This project is awarded Grand Prize winner in University of Virginia's Open Call 'Data is Art', and is currently exhibited in U of Virginia's campus till the Dec 2024. 
 
+![Stained Underwear GIF](/../main/Pictures/StainedUnderwear.gif)
+
 -------
 
 ### About the project
