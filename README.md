@@ -1,7 +1,7 @@
 # Stained Underwear
 ### By Julia Daser and Pepi Ng
 
-This project was chosen as a finalist as part of U of Virginia's Open Call, and is currently exhibited in U of Virginia's campus till the Dec 2024. 
+This project is awarded Grand Prize winner in University of Virginia's Open Call 'Data is Art', and is currently exhibited in U of Virginia's campus till the Dec 2024. 
 
 -------
 
